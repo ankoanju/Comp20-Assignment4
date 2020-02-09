@@ -1,0 +1,52 @@
+
+
+cdcatalog{
+	color: #FF6B6C;
+	font-family: Hoefler Text; 
+	font-style: bold;
+	display: block; 
+	margin: 3px;
+	text-align: center;
+}
+
+head {
+	display: block;
+	padding-top: 20px;
+	text-align: center;
+	font-family: Impact;
+	font-size: 40px;
+	font-style: bold;
+}
+
+songlist{
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: 4px;
+	border-style: ridge;
+	width: 43%;
+	float: center;
+	background-color: #F9F9F9;
+
+}
+
+title {
+	display: block;
+	color: #2D424C;
+	font-style: bold;
+	font-family: Trattatello;
+	font-size: 30px;
+}
+
+title, artist, genre, country, year{
+	display: block;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+
+tracknum {
+	color: #2D424C;
+}
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<cdcatalog>
+	<head>the best decade</head>
+	<songlist>
+		<tracknum>Track 1</tracknum>
+		<title>Girls Just Want To Have Fun</title>
+		<artist>Cyndi Lauper</artist>
+		<genre>Pop</genre>
+		<country>USA</country>
+		<year>1983</year>
+	</songlist>
+	<songlist>
+		<tracknum>Track 2</tracknum>
+		<title>Dancing Queen</title>
+		<artist>ABBA</artist>
+		<genre>Disco, Europop</genre>
+		<country>Sweden</country>
+		<year>1976</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 3</tracknum>
+		<title>You're The One That I Want</title>
+		<artist>John Travolta, Olivia Newton-John</artist>
+		<genre>Pop</genre>
+		<country>USA</country>
+		<year>1978</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 4</tracknum>
+		<title>I Wanna Dance with Somebody</title>
+		<artist>Whitney Houston</artist>
+		<genre>Pop</genre>
+		<country>USA</country>
+		<year>1987</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 5</tracknum>
+		<title>Flashdance What A Feeling</title>
+		<artist>Irene Cara</artist>
+		<genre>Dance, Electronic</genre>
+		<country>USA</country>
+		<year>1983</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 6</tracknum>
+		<title>Top Of the World</title>
+		<artist>Carpenters</artist>
+		<genre>Country Pop</genre>
+		<country>USA</country>
+		<year>1972</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 7</tracknum>
+		<title>Yesterday's Dream</title>
+		<artist>Donna Cruz</artist>
+		<genre>Pop</genre>
+		<country>USA</country>
+		<year>1968</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 8</tracknum>
+		<title>You Are The Sunshine Of My Life</title>
+		<artist>Stevie Wonder</artist>
+		<genre>Soul, Pop</genre>
+		<country>USA</country>
+		<year>1972</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 9</tracknum>
+		<title>Greatest Love Of All</title>
+		<artist>Whitney Houston</artist>
+		<genre>R &amp; B</genre>
+		<country>USA</country>
+		<year>1985</year> 
+	</songlist>
+	<songlist>
+		<tracknum>Track 10</tracknum>
+		<title>True Colors</title>
+		<artist>Cyndi Lauper</artist>
+		<genre>Pop</genre>
+		<country>USA</country>
+		<year>1986</year> 
+	</songlist>
+</cdcatalog>
